@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Eva Kandris business card</title>
+  <desc id="desc">A professional business card for a clinical psychologist named Eva Kandris.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#cdd6ea"/>
+      <stop offset="40%" stop-color="#dfe6ef"/>
+      <stop offset="100%" stop-color="#eef2f5"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4f3f0"/>
+      <stop offset="100%" stop-color="#efefe9"/>
+    </linearGradient>
+    <linearGradient id="footerBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#475aa7"/>
+      <stop offset="100%" stop-color="#344e9a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#sky)"/>
+
+  <g opacity="0.38">
+    <path d="M0 0 L1200 0 L1200 140 Q1080 110 1000 120 Q820 130 700 80 Q560 20 430 80 Q270 150 0 100 Z" fill="#edf1f5"/>
+    <path d="M0 150 Q180 90 360 160 Q520 220 700 150 Q880 90 1200 150 L1200 250 Q940 220 720 260 Q500 300 300 250 Q180 220 0 260 Z" fill="#f7f8fa" opacity="0.9"/>
+  </g>
+
+  <rect x="232" y="78" width="736" height="238" fill="url(#panel)" opacity="0.9"/>
+
+  <text x="600" y="170" text-anchor="middle" fill="#201b1a" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-style="italic" font-weight="500">Eva Kandris</text>
+  <text x="600" y="225" text-anchor="middle" fill="#201b1a" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" font-weight="400">B.Psych.(Hons); M.Psychol.</text>
+
+  <text x="600" y="325" text-anchor="middle" fill="#201b1a" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-style="italic" font-weight="500">Clinical Psychologist</text>
+
+  <text x="600" y="455" text-anchor="middle" fill="#201b1a" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" font-weight="400">Miranda Family Practice</text>
+  <text x="600" y="516" text-anchor="middle" fill="#201b1a" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-style="italic" font-weight="400">12 Central Road Miranda NSW 2228</text>
+
+  <rect x="170" y="565" width="860" height="125" fill="url(#footerBg)"/>
+
+  <text x="600" y="622" text-anchor="middle" fill="var(--footer-text)" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" font-weight="400">0466 988 198</text>
+  <text x="600" y="670" text-anchor="middle" fill="var(--footer-text)" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" font-weight="400">Eva_ClinPsych@live.com.au</text>
+</svg>
